@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+For publications, see Research tab in 
+[my ResearchGate profile](https://www.researchgate.net/profile/Kazuki_Nakata).
 
-{% include base_path %}
+You can also find my publications on:
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* [my Google Scholar profile](https://scholar.google.com/citations?user=RFSNsasAAAAJ&hl=ja)
+* [my ORCID profile](https://orcid.org/0000-0002-4298-1148)
