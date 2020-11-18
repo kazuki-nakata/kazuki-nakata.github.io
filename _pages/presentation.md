@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+* 酒谷幸彦，西真佐人，藤澤誠二，寺堀吉博，古田竜一，清水考一，平松真宙，中田和輝：衛星画像を使った土地改変分類手法の検討, 2020年度砂防学会研究発表会、愛知、2020年7月
 
 * Ohshima, K. I., N. Tamaru, S. Nihashi, K. Nakata, K. Iwamoto: Estimation of sea-ice production in the Bering Sea from AMSR-E and AMSR2 data, with special emphasis on the Anadyr polynya, IGS 2019 sea ice symposium, Winnipeg, Canada, August, 2019.
 
